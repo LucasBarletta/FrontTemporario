@@ -1,0 +1,26 @@
+.Footer{
+    display: flex;
+    background-color: #161616;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    footer{
+        width: 20%;
+        height: 9.6vh;
+        display: inline-flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    h1{
+        margin: 0;
+        font-size: 20pt;
+        font-family: 'Times New Roman', Times, serif;
+        color: #ffffffb4;
+    }
+    h2{
+        margin: 0;
+        font-size: 20pt;
+        font-family: 'Times New Roman', Times, serif;
+        color: #ffffffb4;
+    }
+}

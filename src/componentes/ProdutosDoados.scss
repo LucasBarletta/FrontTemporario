@@ -1,0 +1,36 @@
+.ProdutosDoados{
+    display: flex;
+    justify-content: flex-end;
+    height: 80vh;
+}
+
+
+.Perfil{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    border: none;
+    border: 5px solid #f34331;
+    border-radius: 30px;
+    a{
+        text-decoration: underline;
+        cursor: pointer;
+        color: #f34331;
+    }
+    img{
+        width: 100px;
+        padding: 20px;
+    }
+    button{
+        color: #f34331;
+        text-decoration: underline;
+        font-size: 12pt;
+        background-color: transparent;
+        border: none;
+        border-radius: 0px;
+        margin: 1px;
+    }
+}

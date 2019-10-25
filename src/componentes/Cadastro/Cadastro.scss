@@ -1,0 +1,22 @@
+.Cadastro{
+    margin: 0;
+    background-image: url(../../imagens/fundo1.jpg);
+    background-size: cover;
+    height: 80vh;
+    h1{
+        font-size: 30pt;
+        margin: 0;
+        padding: 30px 150px;
+    }
+    button{
+        font-size: 30pt;
+        width: 200px;
+        height: 200px;
+        background-color: #161616;
+        padding: 50px;
+        margin: 70px 80px 70px 200px;
+        cursor: pointer;
+        color: #ffffffb4;
+        font-family: 'Oswald', sans-serif;
+    }
+}
